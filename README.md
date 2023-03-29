@@ -2,8 +2,11 @@
 Phân loại được 5 loại hoa: hoa hồng, hoa tulip, hoa cúc trắng, hoa sen, hoa hướng dương
 
 Step 1: clone this repo
+
 Step 2: Open with live server
+
 Step 3: Browse your's image about flowers: roses, tulip, daisy, lotus, sunflower
+
 Step 4: Enjoy (label of flower is rate from 0 to 1). Predict label is highest rate.
 
 This is my link: https://tranhuyhoang2001.github.io/PhanLoaiAnhHoa/
